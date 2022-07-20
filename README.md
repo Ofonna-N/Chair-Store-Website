@@ -2,7 +2,7 @@
 
 ---
 
-Built a chair store website from this [Figma Design](https://www.figma.com/file/pmr3UHzHBp37SsFFoZ4VmY/Elementor-Landing-Page?node-id=41%3A160) using only HTML and CSS.
+Built a [chair store](https://ofonna-n.github.io/Chair-Store-Website/) website from this [Figma Design](https://www.figma.com/file/pmr3UHzHBp37SsFFoZ4VmY/Elementor-Landing-Page?node-id=41%3A160) using only HTML and CSS.
 
 Still in the process of biulding my skills with the markup and cascading languages
 respectively. This site wasn't too difficult to build as my foundation in these

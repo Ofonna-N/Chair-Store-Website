@@ -95,6 +95,7 @@ header .btn a:hover
     display: flex;
     justify-content: center;
     gap: 5rem;
+    margin-top: 3rem;
 }
 
 .selection .gallery p
@@ -106,7 +107,6 @@ header .btn a:hover
 .selection p:first-child
 {
     margin-top: 8rem;
-    margin-bottom: 3rem;
     color: #3c3a4770;
 }
 
