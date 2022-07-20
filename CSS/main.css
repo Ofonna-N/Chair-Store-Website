@@ -147,7 +147,7 @@ header .btn a:hover
     background-color: var(--contantus_col);
     border-style: solid;
     border-color: var(--contantus_col);
-    height: 60rem;
+    height: 70rem;
     color: white;
     font-weight: lighter;
 }
@@ -172,6 +172,7 @@ header .btn a:hover
     background-color: var(--contactus_col_trans);
     border: none;
     color: white;
+    resize: none;
 }
 
 .contact-us form > label
